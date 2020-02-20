@@ -1,0 +1,197 @@
+body{
+  
+     margin:0;
+     font-family:verdana;
+
+    }
+
+#logo{
+
+    float: left;
+    margin-left:50px;
+          margin-top:50px;
+
+    }
+
+#logo h1{
+      font-weidth: bold;
+      margin:0 ;
+      padding: 0px;
+
+        }
+
+
+.te_lo_st{
+           margin:0 ;
+           padding: 0px;
+           font-size: 10;
+           
+         }
+
+
+#head1{
+        background-color:#cccccc;
+        height:30px;
+      }
+
+
+#head2{
+        background-color:#ffffff;
+        height:80px;
+      }
+
+.nav1 { 
+       float:right;
+       margin-right:10px;
+      }
+
+.nav1 a{ 
+       text-decoration: none;
+       margin: 0 15px;
+       line-height:30px;
+       color:gray;
+       opacity:0.5;
+       margin-left:5px;
+      
+      padding-right:0px;
+     }
+
+.nav2{
+       float:right;
+       margin-right:30px;
+       margin-top:40px;
+       
+
+     }
+.nav2 a{
+             color:gray;
+             text-decoration: none;
+             
+             line-height:80px;
+             padding:10 10px;
+
+            }
+
+.headimg{
+           height:40; 
+           width:40;
+           padding:10 10px;
+           margin:0px;
+        }
+
+
+.s{
+    font-size: 10;
+    margin: 0;
+    padding:0;
+}
+
+.cent_text{
+            text-align: center;
+            margin-top: 30px;
+            padding: 0px;
+            margin-bottom: 30px;
+
+          }
+
+.cen_line{
+     color:gray;
+     margin: 0px;
+
+}
+    
+.col{ float:left;
+      text-align:justify;
+      width:400px;
+      margin:0 15px;
+
+    }
+
+#footer_part1{ display:flex;
+               background-color:#cccccc;
+               height:50px;
+               width:100%
+
+
+             }
+
+
+
+#footer_logo{
+          clear:both;
+          line-height:20px;
+    margin-left:50px;
+         
+            }
+
+.foot_part_2{
+              background-color:#BFBFC1;
+            }
+
+.footimg{
+         height:80px;
+         width:80px;
+         padding:10px;
+         margin: 0 20 10 0;
+
+       } 
+.pstyle{
+        font-size:15px;
+        font-weight:bold;
+        word-spacing:5px;
+        line-height:30px;
+}
+.timestyle{
+           color:gray;
+           opacity:0.5;
+           font-size:15px;
+}
+
+.clockstyle{
+             float:left;
+             height:30; 
+             width:30;
+             margin: 10 10 40 0;
+}
+
+.astyle {
+       text-decoration: none;
+       color:gray;
+       opacity:0.5;
+       line-height:40px;
+       
+       
+
+}
+
+#footer_part3{ clear:both;
+               background-color:#cccccc;
+               height:80px;
+               width:100%
+              
+             }
+
+h5{
+  float: left;
+  margin-top: 15px;
+        margin-left: 30px;
+        line-height:20px;
+        opacity:0.4;
+}
+
+.h4styl{
+         font-size:15px;
+         color: black;
+
+       }
+
+
+.navfoot { 
+
+       float: right;
+       margin-right: 30px;
+       margin-top:30px;
+}
+.d1{
+  transform:rotate(-20deg);
+}
